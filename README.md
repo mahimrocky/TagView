@@ -66,11 +66,13 @@ or in XML you can set
     tagView.initTagListener(TagItemListener listener); // You can implement it
 ```
 **To get selected tag**
+
 ```sh
     tagView.getSelectedTags();// taht will return TagModel List
 ```
 
 There are following property that you can use in **XML** section
+
 | Attributes | Purpose |
 | ------ | ------ |
 | ```app:tag_text_color```|  To change Tag text color|
@@ -82,6 +84,7 @@ There are following property that you can use in **XML** section
 
 **How you can set predefine tag list?**
 You can set List of String or array of String
+
 ```sh
 String[] tagList = new String[]{"Hello1", "Hello2", "Hello3"};
 tagView.setTagList(tagList);
@@ -89,6 +92,7 @@ tagView.setTagList(tagList);
 ```
 
 **The following methods to change property of tag**
+
 | Mtehod Name | Purpose |
 | ------ | ------ |
 | ```addTagLimit(int limit)```|  To set Tag limit|
