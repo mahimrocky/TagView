@@ -23,7 +23,7 @@ Sample
 
 ```sh
 dependencies {
-	   implementation 'com.github.mahimrocky:TagView:1.0.0'
+	   implementation 'com.github.mahimrocky:TagView:1.0.1'
 	}
 ```
 Ok Now starts **Implementation** part. You have to set just follwoing **xml**
