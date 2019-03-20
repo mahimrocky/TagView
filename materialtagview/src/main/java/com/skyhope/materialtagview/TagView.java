@@ -131,7 +131,7 @@ public class TagView extends FlexboxLayout implements TagClickListener {
 
         mTagTextColor = typedArray.getColor(R.styleable.TagView_tag_text_color, getResources().getColor(R.color.white));
 
-        tagBackgroundColor = typedArray.getColor(R.styleable.TagView_tag_background_color, getResources().getColor(R.color.white));
+        tagBackgroundColor = typedArray.getColor(R.styleable.TagView_tag_background_color, getResources().getColor(R.color.tag_bg));
 
         tagLimit = typedArray.getInt(R.styleable.TagView_tag_limit, 1);
 

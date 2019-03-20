@@ -25,9 +25,9 @@ public class MainActivity extends AppCompatActivity {
 
         tagView.addTagLimit(5);
 
-        tagView.setTagBackgroundColor(Color.RED);
+       // tagView.setTagBackgroundColor(Color.RED);
 
-        String[] tagList = new String[]{"Hello1", "Hello2", "Hello3"};
+        String[] tagList = new String[]{"C++", "Java", "PHP"};
         tagView.setTagList(tagList);
 
     }
