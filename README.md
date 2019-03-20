@@ -68,7 +68,7 @@ or in XML you can set
 **To get selected tag**
 
 ```sh
-    tagView.getSelectedTags();// taht will return TagModel List
+    tagView.getSelectedTags();// that will return TagModel List
 ```
 
 There are following property that you can use in **XML** section
