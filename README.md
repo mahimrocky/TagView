@@ -5,8 +5,8 @@ This ibirary help to pick up Text as Tag. Like **Skill**selection or other thing
 
 Sample
 <p align="center">
-  <img src="https://github.com/mahimrocky/TagView/blob/master/screenshot.png" width="200" height="400" />
-  <img src="https://github.com/mahimrocky/TagView/blob/master/screenshot_1.png" width="200" height="400" /> 
+  <img src="https://github.com/mahimrocky/TagView/blob/master/screenshot_3.png" width="200" height="400" />
+  <img src="https://github.com/mahimrocky/TagView/blob/master/screenshot_2.png" width="200" height="400" /> 
 </p> 
 
 # Root Gradle
