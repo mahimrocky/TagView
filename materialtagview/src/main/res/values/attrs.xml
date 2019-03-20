@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagView">
+        <attr name="tag_text_color" format="color" />
+        <attr name="tag_background_color" format="color" />
+        <attr name="tag_limit" format="integer" />
+        <attr name="close_icon" format="reference" />
+        <attr name="limit_error_text" format="string" />
+        <attr name="tag_separator" format="enum">
+
+            <enum name="COMMA_SEPARATOR" value="1" />
+            <enum name="PLUS_SEPARATOR" value="2" />
+            <enum name="MINUS_SEPARATOR" value="3" />
+            <enum name="SPACE_SEPARATOR" value="4" />
+            <enum name="AT_SEPARATOR" value="5" />
+            <enum name="HASH_SEPARATOR" value="6" />
+        </attr>
+    </declare-styleable>
+</resources>
