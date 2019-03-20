@@ -1,7 +1,7 @@
 [![Release](https://jitpack.io/v/mahimrocky/TagView.svg)](https://github.com/mahimrocky/TagView/releases/tag/1.0.1)
 # TagView
 
-This ibirary help to pick up Text as Tag. Like **Skill**selection or other things what you want. You can call it **Tag with EditText** You can select specicfic text from showing list or from editText text. Easy to us and Simple library
+This libirary help to pick up Text as Tag. Like **Skill** selection or other things what you want. You can call it **Tag with EditText** You can select specicfic text from showing list or from editText text. Easy to us and Simple library
 
 Sample
 <p align="center">
