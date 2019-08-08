@@ -26,7 +26,7 @@ you have to add below two dependency. Because library was build on **flexbox**
 ```sh
 dependencies {
            implementation 'com.google.android:flexbox:1.0.0'
-	   implementation 'com.github.mahimrocky:TagView:1.0.1'
+	   implementation 'com.github.mahimrocky:TagView:1.0.3'
 	}
 ```
 Ok Now starts **Implementation** part. You have to set just follwoing **xml**
