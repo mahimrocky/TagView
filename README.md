@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/mahimrocky/TagView.svg)](https://github.com/mahimrocky/TagView/releases/tag/1.0.1)
+[![Release](https://jitpack.io/v/mahimrocky/TagView.svg)](https://github.com/mahimrocky/TagView/releases/tag/1.0.3)
 # TagView
 
 This libirary help to pick up Text as Tag. Like **Skill** selection or other things what you want. You can call it **Tag with EditText** You can select specicfic text from showing list or from editText text. Easy to us and Simple library
@@ -21,8 +21,11 @@ Sample
 
 # App Gradle:
 
+you have to add below two dependency. Because library was build on **flexbox**
+
 ```sh
 dependencies {
+           implementation 'com.google.android:flexbox:1.0.0'
 	   implementation 'com.github.mahimrocky:TagView:1.0.1'
 	}
 ```
