@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mahimrocky:TagView:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/TagView-1.0.1.aar/d4c148d87b7a75fb998a5da5e84bc6c0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/TagView-1.0.1.aar/d4c148d87b7a75fb998a5da5e84bc6c0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mahimrocky/TagView/1.0.1/43fc12c7ae09199e7c71a6ba4ba8c78751953d9d/TagView-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
