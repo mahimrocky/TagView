@@ -9,6 +9,14 @@ buildscript {
     }
 }
 
+allprojects {
+    repositories {
+        maven {
+            url "https://google.bintray.com/flexbox-layout"
+        }
+    }
+}
+
 android {
     compileSdkVersion 28
 
